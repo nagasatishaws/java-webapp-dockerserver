@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>JAVA+JENKINS+DOCKER</title>
+<title>Devotional</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>HARA HARA MAHADEVA </h2>
-			<h3>SHAMBO SHANKARA</h3>
+			<h3>NAMO NARAYANAYA</h3>
 			
 		
 		</div>	
@@ -50,7 +50,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; PITHAPURAM 2020</p>
 	</footer>
 </div>
 
